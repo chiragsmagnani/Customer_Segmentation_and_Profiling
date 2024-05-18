@@ -12,5 +12,5 @@ Monetary: How much revenue we get from their visit or how much do they spend whe
 
 RFM Analysis is a marketing framework that is used to understand and analyze customer behaviour based on the above three factors RECENCY, Frequency, and Monetary.
 
-The RFM Analysis will help the businesses to segment their customer base into different homogenous groups so that they can engage with each group with different targeted marketing strategies.
+The RFM Analysis will help the businesses to segment their customer base into different homogenous groups so that they can engage with each group with different targeted marketing strategies.It is performed using pivot tables in Excel, customer data can be analyzed to determine customer segments easily and efficiently.
 
