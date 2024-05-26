@@ -14,3 +14,5 @@ RFM Analysis is a marketing framework that is used to understand and analyze cus
 
 The RFM Analysis will help the businesses to segment their customer base into different homogenous groups so that they can engage with each group with different targeted marketing strategies.It is performed using pivot tables in Excel, customer data can be analyzed to determine customer segments easily and efficiently.
 
+![image](https://github.com/chiragsmagnani/Customer_Segmentation_and_Profiling/assets/86179083/94924d65-5887-4017-8402-afc3fa9d7f4d)
+![image](https://github.com/chiragsmagnani/Customer_Segmentation_and_Profiling/assets/86179083/22ff471b-c478-4dcf-a049-d75381c6c1b9)
